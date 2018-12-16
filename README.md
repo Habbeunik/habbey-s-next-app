@@ -1,2 +1,1 @@
-# finder-client
-
+# Next-typescript-startKit
